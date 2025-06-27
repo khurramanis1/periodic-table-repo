@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+}
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+td {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 11px;
+    transition: 0.5s ease-in-out;
+}
+.blank {
+    border: none;
+    font-size: 14px;
+}
+span {
+    font-weight: bold;
+    font-size: 17px;
+}
+.star {
+    font-size: 20px;
+}
+.star:hover {
+    font-size: 22px;
+}
+.str {
+    font-size: 12px;
+    color: #fff;
+    transition: 0.5s ease-in-out;
+}
+.str:hover {
+    font-size: 13px;
+}
+span:hover {
+    font-size: 18px;
+}
+.fountain-blue {
+    background-color: #59B5BF;
+}
+.fountain-blue:hover {
+    background-color: #3d7d85;
+}
+.blue {
+    background-color: #376BC9;
+}
+.blue:hover {
+    background-color: #1f4a7b;
+}
+.purple {
+    background-color: #9F679E;
+}
+.purple:hover {
+    background-color: #6b3f6c;
+}   
+.dark-green {
+    background-color: #46918B;
+}
+.dark-green:hover {
+    background-color: #2f5b5d;
+}   
+.red {
+    background-color: #E73A54;
+}
+.red:hover {
+    background-color: #a01f2c;
+}
+.orange {
+    background-color: #E96C4B;
+}
+.orange:hover {
+    background-color: #a44b2f;
+}
+.yellowish {
+    background-color: #F1B658;
+}
+.yellowish:hover {
+    background-color: #b88f3e;
+}
+.light-green {
+    background-color: #63cd68;
+}
+.light-green:hover {
+    background-color: #3f9b4a;
+}
+.gray {
+    background-color: #869a99;
+}
+.gray:hover {
+    background-color: #637575;
+}
+.dark-blue {
+    background-color: #234D73;
+}
+.dark-blue:hover {
+    background-color: #1c375a;
+}
+.dark-purple {
+    background-color: #552f56;
+}
+.dark-purple:hover {
+    background-color: #501652;
+}
